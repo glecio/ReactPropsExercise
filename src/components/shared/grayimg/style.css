@@ -1,0 +1,12 @@
+body {
+  background-color: aquamarine;
+}
+
+.img-normal {
+  width: 200px;
+}
+
+.img-bordered {
+  width: 200px;
+  border: 2px solid #555;
+}
